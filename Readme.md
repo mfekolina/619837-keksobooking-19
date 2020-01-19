@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Maria Fekolina](https://up.htmlacademy.ru/javascript/19/user/619837).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Алексеенко`.
 
 ---
 
